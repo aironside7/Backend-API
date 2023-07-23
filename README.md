@@ -1,4 +1,11 @@
 Project Description:
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+***********
+
+(I have chosen to use the MERN stack with JavaScript instead of TypeScript, as i am more comfortable with JavaScript. This decision allows you to build your web application using the familiar technologies of MongoDB, Express.js, React, and Node.js with the convenience of JavaScript as the programming language.)
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
 The FMCG (Fast-Moving Consumer Goods) App backend is a RESTful API that provides various endpoints to manage users, customers, products, and orders. It is designed to serve as the backend for an FMCG application, allowing users to register and log in, manage customer data, create, update, and delete products, and handle orders.
 
 Endpoints and Features:
